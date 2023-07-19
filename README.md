@@ -34,7 +34,3 @@ Ensure that Python 3 is installed on your machine. Then, run the script with:
 python3 blockchain.py
 ```
 Replace blockchain.py with the name of the file that contains the code.
-
-Contribution
-
-Contributions are always welcome! Please ensure that you adhere to the RMIT University's policy on academic integrity.
